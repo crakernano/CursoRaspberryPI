@@ -1,7 +1,10 @@
-# CursoRaspberryPI
-Ejercicios resueltos del curso de Rasberry Pi.
+# Curso Raspberry PI
+Solución a los ejercicios del curso de Raspberry Pi impartido por [Sindormir.net](https://sindormir.net)
 
-## Temario:
+![Curso Raspberry Pi](https://sindormir.net/sites/sindormir.net/files/cursos/curso-raspberrypi-texto-portada-dch.png.jpg)
+[Más info: ](http://)
+
+## Temario
 (En construcción)
 
 ## Impartido por: 
