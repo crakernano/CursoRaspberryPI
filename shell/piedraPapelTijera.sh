@@ -1,4 +1,4 @@
-#!/bin/sh
+Cu#!/bin/sh
 
 while true; do
 	#Mostramos un menu al usuario
@@ -53,7 +53,7 @@ while true; do
 	elif(test "$opcUsr" -eq "3")&&(test "$opcMaquina" -eq "2"); then
         	echo "Ganas"
 	fi
-	
+
 	echo""
 	echo "----------------------------------------------------------"
 	echo""

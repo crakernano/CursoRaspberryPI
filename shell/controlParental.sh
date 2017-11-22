@@ -7,5 +7,6 @@ read edad
 		echo "Eres menor"
 	else
 		echo "bienvenido"
+		#firefox
+		/usr/bin/firefox
 	fi
-
