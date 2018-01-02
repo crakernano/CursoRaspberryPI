@@ -9,4 +9,6 @@ read edad
 		echo "bienvenido"
 		#firefox
 		/usr/bin/firefox
+		#Si no se ha instalado el firefox
+		chromium-browser
 	fi
